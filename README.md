@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfaZeroh1
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Tech.
+- 🌱 I’m currently learning Web Development and Solidity
 - 💞️ I’m looking to collaborate on any Software Development Project
 - 📫 How to reach me timcatech@gmail.com
 
